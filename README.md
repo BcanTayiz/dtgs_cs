@@ -15,13 +15,8 @@ To use this project, follow these steps:
 2. Navigate to the project directory.
 3. Run the main script to execute the model.
 
-## Contributing
-Contributions are welcome! Please follow these guidelines:
-- Ensure your code adheres to the project's coding standards.
-- Submit issues or pull requests for any changes or improvements.
-
 ## License
-This project is licensed under the [License Name]. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Project Requirements
 - `pandas`
